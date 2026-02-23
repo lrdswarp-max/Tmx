@@ -1,0 +1,70 @@
+[INFO] Iniciando instalador AI Hub...
+
+==== AI Hub Installer (Termux) ====
+Modo atual: docker | AIHUB_DIR: /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub
+1) Definir modo Docker
+2) Definir modo Native
+3) Instalar dependências
+4) Criar estrutura compartilhada
+5) Gerar configs
+6) Gerar scripts/startup
+7) Rodar bootstrap do modo atual
+8) Instalar tudo
+9) Mostrar próximos passos
+0) Sair
+[INFO] Modo alterado para docker
+
+==== AI Hub Installer (Termux) ====
+Modo atual: docker | AIHUB_DIR: /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub
+1) Definir modo Docker
+2) Definir modo Native
+3) Instalar dependências
+4) Criar estrutura compartilhada
+5) Gerar configs
+6) Gerar scripts/startup
+7) Rodar bootstrap do modo atual
+8) Instalar tudo
+9) Mostrar próximos passos
+0) Sair
+[mock pkg] update -y
+[mock pkg] install -y curl jq rsync sqlite git
+[mock pkg] install -y docker
+[OK] Etapa de dependências concluída.
+[OK] Estrutura compartilhada criada em /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub
+[OK] Criado /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub/.env.shared
+[OK] Arquivos de configuração gerados.
+[OK] Scripts utilitários e docker-compose gerados.
+[OK] Configuração Docker validada.
+
+==== AI Hub Installer (Termux) ====
+Modo atual: docker | AIHUB_DIR: /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub
+1) Definir modo Docker
+2) Definir modo Native
+3) Instalar dependências
+4) Criar estrutura compartilhada
+5) Gerar configs
+6) Gerar scripts/startup
+7) Rodar bootstrap do modo atual
+8) Instalar tudo
+9) Mostrar próximos passos
+0) Sair
+
+Próximos passos:
+1. Edite /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub/.env.shared e adicione suas chaves.
+2. Rode: /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub/scripts/start.sh
+3. Abra: http://localhost:5555
+4. Health check: /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub/scripts/health-check.sh
+
+==== AI Hub Installer (Termux) ====
+Modo atual: docker | AIHUB_DIR: /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.aihub
+1) Definir modo Docker
+2) Definir modo Native
+3) Instalar dependências
+4) Criar estrutura compartilhada
+5) Gerar configs
+6) Gerar scripts/startup
+7) Rodar bootstrap do modo atual
+8) Instalar tudo
+9) Mostrar próximos passos
+0) Sair
+[INFO] Saindo. Até mais.
