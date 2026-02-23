@@ -1,0 +1,254 @@
+[INFO] Iniciador do Termux Dev Stack iniciado.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Executando etapa: install_base_packages
+[INFO] Iniciando: Instalação de pacotes base...
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/pkg update -y
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/pkg upgrade -y
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/pkg install -y git nodejs-lts npm python3 build-essential curl wget vim nano zsh openssh sqlite proot-distro rsync
+[SUCESSO] Pacotes base instalados com sucesso.
+[SUCESSO] Etapa 'install_base_packages' concluída com sucesso.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Executando etapa: setup_directories
+[INFO] Iniciando: Configuração de diretórios...
+[SUCESSO] Diretórios configurados com sucesso.
+[SUCESSO] Etapa 'setup_directories' concluída com sucesso.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Executando etapa: setup_zsh_ohmyzsh
+[INFO] Iniciando: Configuração Zsh e Oh-My-Zsh...
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/sh -c echo '[MOCK] install oh-my-zsh'  --unattended
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/git clone --depth=1 https://github.com/romkatv/powerlevel10k.git /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.oh-my-zsh/custom/themes/powerlevel10k
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/git clone https://github.com/zsh-users/zsh-autosuggestions /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/git clone https://github.com/zsh-users/zsh-syntax-highlighting.git /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+[SUCESSO] Zsh e Oh-My-Zsh configurados com sucesso.
+[SUCESSO] Etapa 'setup_zsh_ohmyzsh' concluída com sucesso.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Executando etapa: setup_hub_mcp
+[INFO] Iniciando: Configuração do Hub MCP (SQLite)...
+[MOCK] /workspace/Tmx/docs/termux-dev-stack/.simulation/mock-bin/sqlite3 /workspace/Tmx/docs/termux-dev-stack/.simulation/home/.termux/hub/database.db
+[SUCESSO] Hub MCP configurado com sucesso.
+[SUCESSO] Etapa 'setup_hub_mcp' concluída com sucesso.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Executando etapa: configure_zshrc
+[INFO] Iniciando: Configuração do .zshrc...
+[SUCESSO] .zshrc configurado com sucesso.
+[SUCESSO] Etapa 'configure_zshrc' concluída com sucesso.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Executando etapa: install_code_server
+[INFO] Iniciando: Instalação do Code-Server...
+[SUCESSO] Etapa de Code-Server concluída.
+[SUCESSO] Etapa 'install_code_server' concluída com sucesso.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Executando etapa: install_base_packages
+[INFO] Iniciando: Instalação de pacotes base...
+[INFO] Pacotes base já instalados. Pulando.
+[SUCESSO] Etapa 'install_base_packages' concluída com sucesso.
+[INFO] Executando etapa: setup_directories
+[INFO] Iniciando: Configuração de diretórios...
+[INFO] Diretórios já configurados. Pulando.
+[SUCESSO] Etapa 'setup_directories' concluída com sucesso.
+[INFO] Executando etapa: setup_zsh_ohmyzsh
+[INFO] Iniciando: Configuração Zsh e Oh-My-Zsh...
+[INFO] Zsh e Oh-My-Zsh já configurados. Pulando.
+[SUCESSO] Etapa 'setup_zsh_ohmyzsh' concluída com sucesso.
+[INFO] Executando etapa: setup_hub_mcp
+[INFO] Iniciando: Configuração do Hub MCP (SQLite)...
+[INFO] Hub MCP já configurado. Pulando.
+[SUCESSO] Etapa 'setup_hub_mcp' concluída com sucesso.
+[INFO] Executando etapa: configure_zshrc
+[INFO] Iniciando: Configuração do .zshrc...
+[INFO] .zshrc já configurado. Pulando.
+[SUCESSO] Etapa 'configure_zshrc' concluída com sucesso.
+[INFO] Executando etapa: install_code_server
+[INFO] Iniciando: Instalação do Code-Server...
+[INFO] Code-Server já instalado. Pulando.
+[SUCESSO] Etapa 'install_code_server' concluída com sucesso.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[ERRO] Opção inválida.
+
+--- Menu de Instalação Termux Dev Stack ---
+1. Instalar Pacotes Base
+2. Configurar Estrutura de Diretórios
+3. Configurar Zsh e Oh-My-Zsh
+4. Configurar Hub MCP
+5. Configurar .zshrc
+6. Instalar Code-Server
+7. Instalar TUDO
+0. Sair
+-------------------------------------------
+[INFO] Saindo do instalador. Até mais!
